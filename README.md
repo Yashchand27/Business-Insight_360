@@ -1,5 +1,7 @@
 # Business-Insight_360
 
+[Interactive Dashboard](http://bit.ly/4eo7ir2)
+
 **Project Overview:**
 
 AtliQ Hardware, a rapidly expanding company in the tech industry, has embraced Power BI for data analytics to enhance its competitive position and enable informed decision-making. The objective of this project is to extract insights across key operational areas such as finance, sales, marketing, and supply chain management.
