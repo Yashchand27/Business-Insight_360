@@ -47,3 +47,10 @@ This project is designed to clearly articulate the goals and purposes of the dat
 
 ![Screenshot 2024-09-14 181527](https://github.com/user-attachments/assets/34c31f51-d597-4ca4-b637-db914116e536)
 
+![Screenshot 2024-09-14 181543](https://github.com/user-attachments/assets/c8a19702-d9e8-40c7-bd35-f86701820d54)
+![Screenshot 2024-09-14 181555](https://github.com/user-attachments/assets/1bc6f5bf-7c20-41c3-bd07-26905fec7b87)
+![Screenshot 2024-09-14 181612](https://github.com/user-attachments/assets/0a9e61af-e5e5-47dc-84dd-d8d84f78824f)
+![Screenshot 2024-09-14 181624](https://github.com/user-attachments/assets/fd6b6048-777c-4411-a9b9-df76dc15f6bd)
+![Screenshot 2024-09-14 181638](https://github.com/user-attachments/assets/d4287346-1350-4744-97e9-6a3f9f91304b)
+![Screenshot 2024-09-14 181656](https://github.com/user-attachments/assets/ee6eef92-e498-4005-baf0-368d59ce0616)
+![Screenshot 2024-09-14 181704](https://github.com/user-attachments/assets/4ef0ebc6-0c07-4827-af6d-a527c3880c63)
