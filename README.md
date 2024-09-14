@@ -44,3 +44,6 @@ AtliQ Hardware specializes in the sale of computers and accessories via retailer
 **Expected Outcomes:**
 
 This project is designed to clearly articulate the goals and purposes of the data analytics initiative. The resulting reports will empower data-driven decision-making and provide comprehensive answers to critical questions regarding the company's performance. This initiative marks an important step toward resilience and success within the industry. 
+
+![Screenshot 2024-09-14 181527](https://github.com/user-attachments/assets/34c31f51-d597-4ca4-b637-db914116e536)
+
